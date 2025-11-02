@@ -1,0 +1,8 @@
+# Root ignore
+.vs/
+# Ignore yarn error logs
+yarn-error.log
+# Ignore OS artifacts
+.DS_Store
+Thumbs.db
+# Delegate deeper ignores to per-folder .gitignore files
